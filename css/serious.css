@@ -1,0 +1,59 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #1f1f1f;
+    color: #1f1f1f;
+    background-color: #e7ecf5;
+    margin: 0;
+    padding: 1rem 2rem;
+}
+main{
+    max-width: 420px;
+    margin: 0 auto;
+    
+
+}
+.insc{
+    text-align: center;
+    margin: o;
+    font-size: 1.9rem;
+    letter-spacing: 8%;
+   margin-bottom: 1.5rem; 
+   box-sizing: border-box;
+
+}
+.formulaire{
+    background-color: white;
+    border-radius: 18px;
+    padding: 24px;
+    box-shadow: 0 18px 40px rgba(16, 16, 16, 0.523) ; 
+    border: 1px rgba(0, 0, 0, 0.07);
+}
+.formulaire div{
+    margin-bottom: 1.2rem;
+    
+}
+label{
+    display: block;
+margin-bottom: 0.32rem;
+font-weight: 600;
+color: #222;
+
+}
+
+.champ-nom, .champ-prenom, .champ-contact, .champ-email{
+width: 100%;
+padding: 0.85rem 0.95rem;
+border: 1px solid #b8c1d1;
+border-radius: 10px;
+box-sizing: border-box;
+background-color: #f8f9fd;
+color: #1d1d1d;
+}
+button{
+    background-color: #0f6df0;
+    padding: 0.85rem 1.2rem;
+    border-radius: 10px ;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+}
